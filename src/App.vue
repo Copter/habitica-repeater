@@ -77,7 +77,7 @@ export default {
           "Content-Type": "application/json",
           "x-api-user": this.hbUserId,
           "x-api-key": this.hbApiToken,
-          "x-client": "12345678-90ab-416b-cdef-1234567890ab-Testing",
+          "x-client": "41ce497c-5344-4d4b-b1ed-0b5986619495-habitica-repeater",
         }),
       });
     },
