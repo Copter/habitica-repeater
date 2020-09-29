@@ -1,5 +1,7 @@
 # habitica-repeater
 
+https://copter.github.io/habitica-repeater/
+
 This tool simply allows [Habitica](https://habitica.com/) users to automatically score their Habit tasks multiple times without having to click repeatedly.
 
 ## Usage
